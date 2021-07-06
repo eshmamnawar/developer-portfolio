@@ -14,7 +14,7 @@ span{
 h2{
     font-size: 50px;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 50px;
 }
@@ -68,4 +68,7 @@ a{
     border-radius: 10px;
 
     
+}
+.one{
+    width: 50%;
 }
