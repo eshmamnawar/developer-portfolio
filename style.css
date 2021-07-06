@@ -89,3 +89,16 @@ a{
 .adjust{
     padding-left: 130px;
     margin: 20px;
+}
+#web-dev1{
+    border-left:10px solid;
+    border-color: cyan;
+    border-image-slice: 1;
+}
+#web-dev2{
+    border-left:10px solid;
+    border-color: rgb(0, 255, 21);
+}
+footer{
+    text-align: center;
+}
